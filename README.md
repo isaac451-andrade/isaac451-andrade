@@ -34,4 +34,6 @@
     <h3>Frameworks</h3>
     <img align="center" alt="Django" height="35" width="40" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg">
     <img align="center" alt="Django" height="70" width="85" src="https://github.com/devicons/devicon/blob/master/icons/djangorest/djangorest-original.svg">
+    <img align="center" alt="Django" height="70" width="85" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg">
+    
 </div>
