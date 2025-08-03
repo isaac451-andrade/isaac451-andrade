@@ -16,12 +16,6 @@
 ![isaac451-andrade GitHub stats](https://github-readme-stats.vercel.app/api?username=isaac451-andrade&show_icons=true&theme=shades-of-purple)
 ![isaac451-andrade  GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=isaac451-andrade&show_icons=true&theme=shades-of-purple)
 
-
-<div>
-  <a href="https://www.linkedin.com/in/isaaclima451/" target="_blank" style="padding: 8px; background:blue; color:white; text-decoration:none">Linkedin</a>
-</div>
-[![Portifolio](https://img.shields.io/badge/Site%20portifolio-0c77c8)](https://portifolio-isaac.vercel.app/)
-
 ## 🔱 Technologies n' Skills
 <div style="display: flex; justify-content: space-evenly;">
   <div>
