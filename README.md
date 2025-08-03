@@ -40,4 +40,10 @@
     <img align="center" alt="TailWindCSS" height="70" width="85" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg">
     <img align="center" alt="FastAPI" height="70" width="85" src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg">
   </div>
+
+  <div>
+    <h3>Databases</h3>
+    <img align="center" alt="MySql" height="35" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg">
+    <img align="center" alt="PostgreSQL" height="35" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg">
+  </div>
 </div>
