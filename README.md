@@ -3,7 +3,7 @@
 
 ### Sobre mim
 
-- 🧑‍💻 Atualmente trabalhando como **Desenvolvedor Full-stack**.
+- 🧑‍💻 Atualmente trabalhando como **Desenvolvedor Full-stack** na empresa Big Consultoria.
 - 🎓 Formado em **Análise e Desenvolvimento de Sistemas** pela Universidade Estadual da Paraíba (UEPB).
 - 📖 **Apaixonado por leitura:** Acredito que livros são atalhos para experiências que levaríamos décadas para adquirir.
 - ⚡ Foco atual: Construir aplicações escaláveis e me aprofundar em arquitetura de software.
